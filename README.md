@@ -20,3 +20,9 @@ Motto：Where more technology will be useful--Mr.laowu
 7.[http://www.lanrenzhijia.com/](http://www.lanrenzhijia.com/ "懒人之家") 懒人之家  前端免费素材网
 
 8.[http://www.17sucai.com/](http://www.17sucai.com/ "17素材网")17素材网  前端免费素材网
+
+9.[https://cuiqingcai.com/](https://cuiqingcai.com/ "崔庆才博客") 崔庆才博客（python学习）
+
+10.[https://www.zheyitianshi.com/](https://www.zheyitianshi.com/ "折翼天使社区") 折翼天使社区（代码交易）
+
+11.[http://www.henkuai.com](http://www.henkuai.com "很快（微信公众号、小程序开发学习平台）")很快（微信公众号、小程序开发学习平台）
