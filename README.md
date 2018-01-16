@@ -40,3 +40,7 @@ Motto：Where more technology will be useful--Mr.laowu
 17.[http://www.runoob.com/](http://www.runoob.com/ "菜鸟教程") 菜鸟教程
 
 18.[http://www.pccppc.com/windows-system-html](http://www.pccppc.com/windows-system-html "小马激活官网-系统下载")小马激活官网-系统下载
+
+19.[http://www.php.cn/](http://www.php.cn/ "PHP中文网") PHP中文网 类库下载很方便
+
+20.[http://idea.lanyus.com/](http://idea.lanyus.com/ "phpstorm 2017激活码") phpstorm 激活码
