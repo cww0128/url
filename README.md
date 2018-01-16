@@ -44,3 +44,7 @@ Motto：Where more technology will be useful--Mr.laowu
 19.[http://www.php.cn/](http://www.php.cn/ "PHP中文网") PHP中文网 类库下载很方便
 
 20.[http://idea.lanyus.com/](http://idea.lanyus.com/ "phpstorm 2017激活码") phpstorm 激活码
+
+21.[http://www.workerman.net/](http://www.workerman.net/ "Workerman")纯PHP开发的开源高性能的PHP socket 服务器框架
+
+22.[https://www.swoole.com/](https://www.swoole.com/ "Swoole") 面向生产环境的 PHP 异步网络通信引擎
