@@ -26,3 +26,13 @@ Motto：Where more technology will be useful--Mr.laowu
 10.[https://www.zheyitianshi.com/](https://www.zheyitianshi.com/ "折翼天使社区") 折翼天使社区（代码交易）
 
 11.[http://www.henkuai.com](http://www.henkuai.com "很快（微信公众号、小程序开发学习平台）")很快（微信公众号、小程序开发学习平台）
+
+12.[http://www.bootcss.com/](http://www.bootcss.com/ "Bootstrap中文网") Bootstrap中文网（前端学习）
+
+13.[http://layer.layui.com/](http://layer.layui.com/ "layer弹框使用")layer弹框使用（前端）
+
+14.[https://www.oschina.net/](https://www.oschina.net/ "开源中国")开源中国  没有理由不看的社区
+
+15.[https://stackoverflow.com/](https://stackoverflow.com/ "国外IT交流社区") 国外技术交流社区
+
+16.[https://segmentfault.com/](https://segmentfault.com/ "国内的stackoverflow") 国内的stackoverflow
