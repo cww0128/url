@@ -11,7 +11,7 @@ Motto：Where more technology will be useful--Mr.laowu
 
 3.[https://www.liaoxuefeng.com](https://www.liaoxuefeng.com "python学习的好去处")廖雪峰博客（python学习） 
 
-4.[https://smalltool.github.io/](https://smalltool.github.io/ "仿站小工具")  前端网页抓取集中营
+4.[https://smalltool.github.io/](https://smalltool.github.io/ "仿站小工具")  前端 网页抓取集中营
 
 5.[https://pan.lanzou.com/b143915/ ](https://pan.lanzou.com/b143915/  "markdown编辑器下载")  markdown编辑器下载  密码：3xko
 
