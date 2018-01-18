@@ -51,4 +51,6 @@ Motto：Where more technology will be useful--Mr.laowu
 
 23.[https://www.adminer.org/](https://www.adminer.org/ "数据库管理工具") 数据库管理工具Adminer，比phpmyadmin更好用
 
-24.[/home/wwwroot/vip.ipbhq.com/application](/home/wwwroot/vip.ipbhq.com/application "/home/wwwroot/vip.ipbhq.com/application") Xvedios！需要vpn才能观赏
+24.[http://www.xvideos.com](http://www.xvideos.com "http://www.xvideos.com") Xvedios！需要vpn才能观赏
+
+25.[https://www.pornhub.com](https://www.pornhub.com "全球最大的成人网站")  pornhub ！需要vpn才能观赏
