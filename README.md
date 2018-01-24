@@ -60,3 +60,5 @@ Motto：Where more technology will be useful--Mr.laowu
 27.[https://www.897ee.com/](https://www.897ee.com/ "https://www.897ee.com/")   国内小电影，翻墙看更快
 
 28.[maomivip@mail.com](maomivip@mail.com "maomivip@mail.com")最新域名只需要发送邮件到该邮箱即可。
+
+29.[http://bbs.df81.com/thread-10-1-1.html](http://bbs.df81.com/thread-10-1-1.html "http://bbs.df81.com/thread-10-1-1.html") 东方站长网，后台可以随便改
