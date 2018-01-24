@@ -66,3 +66,9 @@ Motto：Where more technology will be useful--Mr.laowu
 30.[http://www.destroydrop.com/javascripts/tree/v1/](http://www.destroydrop.com/javascripts/tree/v1/ "http://www.destroydrop.com/javascripts/tree/v1/") 树状图dtree源码
 
 31.[http://codetank.alloyteam.com/](http://codetank.alloyteam.com/ "http://codetank.alloyteam.com/") 代码坦克世界，程序员的决战之地
+
+32.[http://metronic.kp7.cn/](http://metronic.kp7.cn/ "http://metronic.kp7.cn/") 前端模板MetroNic
+
+33.[https://www.vultr.com/](https://www.vultr.com/ "https://www.vultr.com/")  VPS shopping
+
+34[http://www.popzitizh.com/](http://www.popzitizh.com/ "http://www.popzitizh.com/")艺术字
