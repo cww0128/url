@@ -71,4 +71,8 @@ Motto：Where more technology will be useful--Mr.laowu
 
 33.[https://www.vultr.com/](https://www.vultr.com/ "https://www.vultr.com/")  VPS shopping
 
-34[http://www.popzitizh.com/](http://www.popzitizh.com/ "http://www.popzitizh.com/")艺术字
+34[http://www.popzitizh.com/](http://www.popzitizh.com/ "http://www.popzitizh.com/") 艺术字
+
+35.[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/ "https://developer.mozilla.org/zh-CN/")   MDN 技术社区
+
+36.[https://www.ixdzs.com/](https://www.ixdzs.com/ "https://www.ixdzs.com/")  爱电子书
