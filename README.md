@@ -76,3 +76,5 @@ Motto：Where more technology will be useful--Mr.laowu
 35.[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/ "https://developer.mozilla.org/zh-CN/")   MDN 技术社区
 
 36.[https://www.ixdzs.com/](https://www.ixdzs.com/ "https://www.ixdzs.com/")  爱电子书
+
+37.[http://mirrors.sohu.com/](http://mirrors.sohu.com/ "http://mirrors.sohu.com/") 搜狐国内镜像
