@@ -1,0 +1,155 @@
+103.223.132.18
+远程端口：22
+登陆账号：root
+登陆密码：hruftpuser
+
+
+
+
+http://wx.16820.com/
+
+:
+这个账号  是  admin
+:
+密码  admin123
+
+
+
+
+http://weixin.16820.com/phpmyadmin/index.php?token=3c6e9e5336a1b86eb1f953f8a6666461
+
+:
+用户名： root
+:
+密码： 1qaz2wsx
+
+
+/var/www/wx/Application/Home/Controller
+
+MaterialController.class.php
+
+
+
+一块钱网站源码
+重点网站
+http://www.16820.com/Loan/details/id/268.html
+
+
+27.151.28.36   phpftp    X37hhqWT
+
+
+
+代理商   服务商   个人用户 
+
+1. 服务商发布放款    用户可以去申请    达成协议   沟通   。我们找商家索要服务费
+
+2. 用户发布借款请求   服务商可以接单 沟通
+
+
+http://192.168.3.167/zentao/my/    账号：wuweixiang
+密码：	WWX123456
+
+
+
+1. 少了一个异步回调
+
+
+新的服务器代码
+
+59.56.110.68
+21
+crmsys
+pass  Ge3h4i1v
+
+
+
+http://crmsys.16820.com/ 
+admin   zzq123
+
+
+
+
+邮箱搭建
+
+https://blog.csdn.net/gyxuehu/article/details/78500645
+
+
+
+:
+http://crmsys.16820.com/ 
+:
+admin   zzq123
+:
+15755175406  111111
+:
+15755175406  111111
+:
+15021699943 123456
+
+http://118.24.102.207:8000
+http://testvip.club:8000/
+
+http://118.24.102.207:8010
+http://testvip.club:8010/
+
+admin
+ewomail123
+
+
+邮件相关：
+邮箱后台管理：
+http://118.24.102.207:8010/Center/Index/login   
+
+domain：testvip.club
+mysql-root-password：zByZS9chmaEnxjZF
+mysql-ewomail-password：ZpWe4w0pCrNmlJQk
+
+
+
+admin
+18712377078
+
+127.0.0.1  mail.testvip.club testvip.club stmp.testvip.club imap.testvip.club
+127.0.0.1 mail.testvip.club localhost
+
+
+邮件安装
+http://doc.ewomail.com/ewomail/304514
+https://vpsyou.com/how-to-install-iredmail-in-centos/
+
+
+
+
+crm  最新的数据库 
+
+http://59.56.110.68:7788/phpMyAdmin/
+
+账号：root
+密码：81ya$1&1wa*
+
+onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')"
+
+http://doc.ewomail.com/ewomail/304515    在本地搭建，就配置内部通信
+
+
+
+
+权限的报表只有五个
+
+
+
+
+
+两个账号的权限按照  到期的合同来作参考
+
+
+
+
+
+index.php?s=/Home/User/editrule/id/20/depname/综合办公室/posname/系统管理员/navTabId/User.html
+
+index.php?s=/Home/User/editrule/id/20/depname/综合办公室/posname/系统管理员/navTabId/User.html
+
+
+
+数据库变了！代码还是没变！需要更新一下权限
